@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon eg2.js"
+    "dev": "nodemon mye.js"
   },
   "keywords": [],
   "author": "",
